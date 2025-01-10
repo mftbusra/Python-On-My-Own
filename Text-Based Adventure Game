@@ -1,0 +1,2 @@
+#Printing a welcome message
+print("Hi! Welcome to my game!")
